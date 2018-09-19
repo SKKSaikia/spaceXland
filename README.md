@@ -9,3 +9,8 @@
 - [Part 5: An intro to Advantage Actor Critic methods: let’s play Sonic the Hedgehog!](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 - [Part 6: Proximal Policy Optimization (PPO) with Sonic the Hedgehog 2 and 3]()
 
+# SpaceX OpenAI : [new environment](https://discuss.openai.com/t/new-spacex-openai-gym-environment/3287) -  [The Original Problem](https://github.com/arex18/rocket-lander)
+
+Compared to the [lunar lander](https://gym.openai.com/envs/LunarLander-v2/), it takes magnitudes of more control effort to successfully land the rocket. Besides having a higher center of gravity, the ratio of the force of the side engines to the main engines is much smaller in the rocket, making it impossible to keep upright unless the nozzle is rotated in a controlled way. Then again, the relatively large longitudinal length of the rocket amplifies small changes in the nozzle angle, making it very sensitive and unstable. Welcome to the problem.
+
+Here's a demo [VIDEO](https://youtu.be/4_igzo4qNmQ) | How the end result should be like ? [Output](https://gfycat.com/CoarseEmbellishedIsopod)
