@@ -24,3 +24,5 @@ In reinforcement learning we have an agent (The "AI") that is interacting with a
 
 
 Siraj Raval did a [Proximal Policy Optimization (PPO) implementation](https://github.com/llSourcell/Landing-a-SpaceX-Falcon-Heavy-Rocket) for OpenAI gym environment based on [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) 
+
+<b>My Training :</b>
