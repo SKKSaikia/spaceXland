@@ -1,5 +1,5 @@
 # spaceXland
-🗽✈ [Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) to land a SpaceX rocket - Falcon Heavy : in OpenAI gym environment
+🗽✈ [Reinforcement Learning](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) to land a SpaceX rocket - Falcon Heavy : in OpenAI [gym](https://github.com/openai/gym#environments) environment
 
 - [Part 1: An introduction to Reinforcement Learning](codecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 - [Part 2: Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
