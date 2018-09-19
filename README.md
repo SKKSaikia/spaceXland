@@ -13,4 +13,7 @@
 
 Compared to the [lunar lander](https://gym.openai.com/envs/LunarLander-v2/), it takes magnitudes of more control effort to successfully land the rocket. Besides having a higher center of gravity, the ratio of the force of the side engines to the main engines is much smaller in the rocket, making it impossible to keep upright unless the nozzle is rotated in a controlled way. Then again, the relatively large longitudinal length of the rocket amplifies small changes in the nozzle angle, making it very sensitive and unstable. Welcome to the problem.
 
-Here's a demo [VIDEO](https://youtu.be/4_igzo4qNmQ) | How the end result should be like ? [Output](https://gfycat.com/CoarseEmbellishedIsopod)
+<img src="https://github.com/SKKSaikia/spaceXland/blob/master/falcon-heavy.gif">
+
+A basic explanation for those interested:
+In reinforcement learning we have an agent (The "AI") that is interacting with an environment (The Falcon 9 falling from the sky). It starts knowing absolutely nothing about the environment and tries new things until it gets better at it. It gets feedback about how good some taken action was in the form of a reward. Here, it gets rewarded for slowing down, getting closer to the ship and finally for a nice touchdown. It gets punished for taking too much time, which is equivalent to using too much fuel (a quicker descent without hovering is more efficient). So based on that feedback it will do the things more often that lead to a higher reward and avoid less successful moves. There's randomness in position, linear and angular velocity. Way more than in the real thing of course to make it interesting and more robust.
