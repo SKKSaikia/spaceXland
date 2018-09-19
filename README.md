@@ -10,6 +10,7 @@
 - [Part 5: An intro to Advantage Actor Critic methods: let’s play Sonic the Hedgehog!](https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 - [Part 6: Proximal Policy Optimization (PPO) with Sonic the Hedgehog 2 and 3](https://towardsdatascience.com/proximal-policy-optimization-ppo-with-sonic-the-hedgehog-2-and-3-c9c21dbed5e)
 - [Software powering Falcon 9](https://youtu.be/N5faA2MZ6jY) [Interesting how Linux & C++ powers space exploration]
+- [How SpaceX is changing the Space Industry](https://youtu.be/BtZDAynd67Y)
 
 # SpaceX OpenAI : [new environment](https://discuss.openai.com/t/new-spacex-openai-gym-environment/3287) -  [The Original Problem](https://github.com/arex18/rocket-lander)
 
